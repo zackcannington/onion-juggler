@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>SharedKernel</RootNamespace>
+    <AssemblyName>SharedKernel</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Onion.Arhitecture.Juggler" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
